@@ -1,0 +1,16 @@
+PODS:
+  - toutiao2ios (0.1.0)
+
+DEPENDENCIES:
+  - toutiao2ios (from `../`)
+
+EXTERNAL SOURCES:
+  toutiao2ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  toutiao2ios: 2b94f9a8baf19b8b1814625a75de1357e77b7a01
+
+PODFILE CHECKSUM: 1736c69aadacf56f75c2bbea8aaff7db068e0455
+
+COCOAPODS: 1.8.4

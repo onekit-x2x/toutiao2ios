@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'toutiao2ios_Example' do
+  pod 'toutiao2ios', :path => '../'
+
+  target 'toutiao2ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module toutiao2ios {
+  umbrella header "toutiao2ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
